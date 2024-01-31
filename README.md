@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-(https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+[Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
 <!--
 **RabbiAmin/RabbiAmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
