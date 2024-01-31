@@ -40,7 +40,7 @@
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 <!--[website]: -->
-[linkedin]: https://www.linkedin.com/in/varadbhogayata
+[linkedin]: [https://www.linkedin.com/in/varadbhogayata](https://www.linkedin.com/in/rabbiamin/)
 
 
 
