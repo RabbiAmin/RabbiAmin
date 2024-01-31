@@ -1,5 +1,5 @@
-### Hi there 👋
-
+![image](https://github.com/RabbiAmin/RabbiAmin/assets/36773584/1739818f-e280-44cf-a4b5-2c77a5172eee)
+### আসসালামুয়ালাইকুম (Assalamuyalaikum) 👋 I'm Rabbi Amin, Data Analyst
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
 
 <!--
