@@ -3,7 +3,7 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
 
 
-- 🎯 Portfolio website: [Portfolio][https://mraminportfolio.streamlit.app/]
+- 🎯 Portfolio website: [Portfolio](https://mraminportfolio.streamlit.app/)
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 
@@ -40,7 +40,7 @@
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 <!--[website]: -->
-[linkedin]: (https://www.linkedin.com/in/rabbiamin/)
+[linkedin] :(https://www.linkedin.com/in/rabbiamin/)
 
 
 
