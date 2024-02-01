@@ -1,6 +1,6 @@
 
 <h1 align="center">
-Hi, I'm Rabbi Amin!
+আসসালামুয়ালাইকুম 🙏🏻 (Assalamuyalaikum) , I'm Rabbi Amin!
 	
  <!-- src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXE1bWQ2OGk1NTJwM2NqNGZ3M2U3MXI2aHIzZDZveXg1aTI1NGVyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SYbKUKZmir9y7l2dYX/giphy.gif" -->
  
