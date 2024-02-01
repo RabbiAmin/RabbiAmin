@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Repo+Worlds;Have+A+Wonderful+Day)](https://git.io/typing-svg)
-
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Repo+Worlds;Have+A+Wonderful+Day)](https://git.io/typing-svg)
+-->
 <h1 align="center">
 আসসালামুয়ালাইকুম 🙏🏻 (Assalamuyalaikum) , I'm Rabbi Amin!
 	
