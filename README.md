@@ -1,18 +1,19 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Repo+Worlds;Have+A+Wonderful+Day)](https://git.io/typing-svg)
+
 <h1 align="center">
 আসসালামুয়ালাইকুম 🙏🏻 (Assalamuyalaikum) , I'm Rabbi Amin!
 	
  <!-- src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXE1bWQ2OGk1NTJwM2NqNGZ3M2U3MXI2aHIzZDZveXg1aTI1NGVyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SYbKUKZmir9y7l2dYX/giphy.gif" -->
  
 <img   src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <img src="https://komarev.com/ghpvc/?username=yashitanamdeo&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="RabbiAmin" />
+ <img src="https://komarev.com/ghpvc/?username=RabbiAmin&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="RabbiAmin" />
 <!--  <img src="https://gpvc.arturio.dev/yashitanamdeo" alt="Profile views" align='right'/> <a href="https://github.com/yashitanamdeo/yashitanamdeo/"> </a> update  -->
 
 
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/RabbiAmin"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Graduate;Data+Analyst;Data+Scientiest;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <hr/>
