@@ -75,8 +75,9 @@ As a graduate :mortar_board: of **North South University** :school: with a degre
     <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit%20-%2320232a.svg?logo=streamlit&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+    <a href="#"><img alt="Dash" src="https://img.shields.io/badge/Dash%20-%23013243.svg?logo=dash&logoColor=white"></a>
    
 </p>
 
