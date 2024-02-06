@@ -88,7 +88,7 @@ As a graduate :mortar_board: of **North South University** :school: with a degre
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Ngrok" src ="https://img.shields.io/badge/build-ngrok-setup?style=flat&logo=appveyor&logoColor=%2314064"></a>
+    <a href="#"><img alt="Ngrok" src ="https://img.shields.io/badge/build-ngrok-setup?style=flat&logo=appveyor&logoColor=%23140648&label=N"></a>
 </p>
 
 ### 💻 Software and Tools
