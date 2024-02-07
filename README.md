@@ -147,6 +147,4 @@ As a graduate :mortar_board: of **North South University** :school: with a degre
 	<a href="mailto:rabbiamin98@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
 
-[![Amin's GitHub | Dependencies](https://stats.quine.sh/RabbiAmin/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=bap)
-
-<!-- [![@yashitanamdeo's Holopin board](https://holopin.me/yashitanamdeo)](https://holopin.io/@yashitanamdeo) -->
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
