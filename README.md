@@ -129,7 +129,7 @@ As a graduate :mortar_board: of **North South University** :school: with a degre
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
 <!-- 	[![Yashita's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashitanamdeo)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-   <a href="https://github.com/RabbiAmin/github-readme-activity-graph"><img alt="Amin's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=RabbiAmin&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+   <a href=""><img alt="Amin's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=RabbiAmin&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   <br/>
 </details>
 
