@@ -147,4 +147,9 @@ As a graduate :mortar_board: of **North South University** :school: with a degre
 	<a href="mailto:rabbiamin98@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<p align="center"> 
+</a>
+	<a href="https://github.com/piyushsuthar/github-readme-quotes" target="_blank"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Gmail"/></a>
+</p>
+
+[![Readme Quotes])]()
