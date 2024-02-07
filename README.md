@@ -131,7 +131,7 @@ As a graduate :mortar_board: of **North South University** :school: with a degre
 <!-- 	[![Yashita's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashitanamdeo)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
    <a href=""><img alt="Amin's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=RabbiAmin&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   <br/>
-[![bap's GitHub | Dependencies](https://stats.quine.sh/bap/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=bap)
+
 </details>
 
 <!-- https://github.com/sisodiya2421 -->
@@ -146,5 +146,6 @@ As a graduate :mortar_board: of **North South University** :school: with a degre
 	<a href="https://www.instagram.com/rabbiamin/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="mailto:rabbiamin98@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
+[![bap's GitHub | Dependencies](https://stats.quine.sh/bap/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=bap)
 
 <!-- [![@yashitanamdeo's Holopin board](https://holopin.me/yashitanamdeo)](https://holopin.io/@yashitanamdeo) -->
