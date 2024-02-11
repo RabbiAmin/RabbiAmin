@@ -95,7 +95,7 @@ As a graduate :mortar_board: of **North South University** :school: with a degre
 
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook.svg?logo=jupyter-notebook&logoColor=white"></a>
+    <a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/logo-javascript-blue?logo=jupyter-notebook&logoColor=white"></a>
     <a href="#"><img alt="Atom" src="https://img.shields.io/badge/Atom-3DDC84?logo=atom&logoColor=white"></a>
     <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
     <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
