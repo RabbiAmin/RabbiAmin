@@ -5,22 +5,18 @@
 
 <center><a href="https://twitter.com/rabbiamin3" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="80px" width="80px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/RabbiAmin/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="Twitter"></a></center>
 
-
 <h1 align="center">
 আসসালামুয়ালাইকুম 🙏🏻 (Assalamuyalaikum) <br>
 <br>	
 **I'm Rabbi Amin!**
 
-
 <img   src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <!--
 <img src="https://komarev.com/ghpvc/?username=RabbiAmin&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="RabbiAmin" />   -->
 
-
 <p align="center">
   <img alt="name" src="https://count.getloli.com/get/@:RabbiAmin" />
 </p>
-
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg  -->
 <p align="center">
