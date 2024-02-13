@@ -17,7 +17,7 @@ I'm Rabbi Amin!
 <img src="https://komarev.com/ghpvc/?username=RabbiAmin&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="RabbiAmin" />
 -->
 
-
+<hr/>
 <p align="center">
   <img alt="name" src="https://count.getloli.com/get/@:RabbiAmin" />
 </p>
