@@ -37,7 +37,7 @@ As a graduate 🎓 of **North South University** 🏫 with a degree in Computer 
 - 💬 Ask me about anything, I am happy to help 😄
 - 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/rabbiamin/)
 
-
+---
 
 
 <p align="center">
