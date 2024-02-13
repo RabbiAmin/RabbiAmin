@@ -1,6 +1,6 @@
 <center><a href="https://twitter.com/rabbiamin3" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="80px" width="80px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/RabbiAmin/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="Twitter"></a></center>
 
--->
+
 <h1 align="center">
 আসসালামুয়ালাইকুম 🙏🏻 (Assalamuyalaikum) , I'm Rabbi Amin!
 	
@@ -151,5 +151,12 @@ As a graduate :mortar_board: of **North South University** :school: with a degre
 </a>
 	<a href="https://github.com/RabbiAmin/github-readme-quotes" target="_blank"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Gmail"/></a>
 </p>
+
+
+<p align="center"> 
+<a href="https://www.buymeacoffee.com/rabbiamin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="250" ></a>
+</p>
+
+
 
 
