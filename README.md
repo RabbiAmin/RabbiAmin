@@ -10,7 +10,7 @@
  <img src="https://komarev.com/ghpvc/?username=RabbiAmin&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="RabbiAmin" />
 <!--  <img src="https://gpvc.arturio.dev/yashitanamdeo" alt="Profile views" align='right'/> <a href="https://github.com/yashitanamdeo/yashitanamdeo/"> </a> update  -->
 
-
+![:name](https://count.getloli.com/get/@:name)
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
