@@ -1,4 +1,5 @@
-<!--[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Repo+Worlds;Have+A+Wonderful+Day)](https://git.io/typing-svg)
+<center><a href="https://twitter.com/rabbiamin3" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="80px" width="80px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/RabbiAmin/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="Twitter"></a></center>
+
 -->
 <h1 align="center">
 আসসালামুয়ালাইকুম 🙏🏻 (Assalamuyalaikum) , I'm Rabbi Amin!
