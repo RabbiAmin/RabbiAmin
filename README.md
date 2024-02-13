@@ -18,7 +18,7 @@ I'm Rabbi Amin!
 <!--  <img src="https://gpvc.arturio.dev/yashitanamdeo" alt="Profile views" align='right'/> <a href="https://github.com/yashitanamdeo/yashitanamdeo/"> </a> update  -->
 
 
-![name](https://count.getloli.com/get/@:RabbiAmin)
+:- ![name](https://count.getloli.com/get/@:RabbiAmin) :
 
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
