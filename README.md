@@ -31,14 +31,11 @@ I'm Rabbi Amin!
 
 
 
----
+As a graduate 🎓 of **North South University** 🏫 with a degree in Computer Science, I'm currently deepening my knowledge in **Data Science** 📉 through a Master's program at **Jahangirnagar University** while also working as a **data analyst** at **Monico Technology** 🏢. My post-graduation journey involved valuable experiences in internships and roles at two different companies, shaping my career in **data science** and **AI**. This role as a data analyst at Monico Technology ✏️ has significantly enhanced my expertise in this field. I've successfully 👍 completed various projects, ranging from creating a health survey dashboard ✨ with Python libraries to delving into graph representation learning with SVM, and developing an augmented reality mobile application for image recognition. Proficient in languages like **Python, R, and MongoDB** 🍀, along with skills in front-end development and version control tools, I am currently collaborating with my team on data 📚 **analytics** and **dashboard** 📈 solutions, contributing to our collective goals.
 
-As a graduate of **North South University** with a degree in Computer Science, I'm currently deepening my knowledge in **Data Science** through a Master's program at **Jahangirnagar University** while also working as a **data analyst** at **Monico Technology**. My post-graduation journey involved valuable experiences in internships and roles at two different companies, shaping my career in **data science** and **AI**. This role as a data analyst at Monico Technology has significantly enhanced my expertise in this field. I've successfully completed various projects, ranging from creating a health survey dashboard with Python libraries to delving into graph representation learning with SVM, and developing an augmented reality mobile application for image recognition. Proficient in languages like **Python, R, and MongoDB**, along with skills in front-end development and version control tools, I am currently collaborating with my team on data **analytics** and **dashboard** solutions, contributing to our collective goals.
-
-- Portfolio website: [Portfolio](https://mraminportfolio.streamlit.app/)
-- Ask me about anything, I am happy to help.
-- How to reach me: [Let's get in touch!](https://www.linkedin.com/in/rabbiamin/)
-
+- 🎯 Portfolio website: [Portfolio](https://mraminportfolio.streamlit.app/)
+- 💬 Ask me about anything, I am happy to help 😄
+- 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/rabbiamin/)
 
 
 <p align="center">
