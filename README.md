@@ -7,15 +7,14 @@
 
 
 <h1 align="center">
-আসসালামুয়ালাইকুম 🙏🏻 (Assalamuyalaikum) , 
+আসসালামুয়ালাইকুম 🙏🏻 (Assalamuyalaikum)  "/n"
 	
-	
- I'm Rabbi Amin!
+I'm Rabbi Amin!
 	
  <!-- src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXE1bWQ2OGk1NTJwM2NqNGZ3M2U3MXI2aHIzZDZveXg1aTI1NGVyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SYbKUKZmir9y7l2dYX/giphy.gif" -->
  
 <img   src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <img src="https://komarev.com/ghpvc/?username=RabbiAmin&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="RabbiAmin" />
+<img src="https://komarev.com/ghpvc/?username=RabbiAmin&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="RabbiAmin" />
 <!--  <img src="https://gpvc.arturio.dev/yashitanamdeo" alt="Profile views" align='right'/> <a href="https://github.com/yashitanamdeo/yashitanamdeo/"> </a> update  -->
 
 ![:name](https://count.getloli.com/get/@:RabbiAmin)
