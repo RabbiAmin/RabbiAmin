@@ -29,7 +29,7 @@ I'm Rabbi Amin!
   <a href="https://github.com/RabbiAmin"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Graduate;Data+Analyst;Data+Scientiest;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>  
 
-
+<hr/>
 
 As a graduate 🎓 of **North South University** 🏫 with a degree in Computer Science, I'm currently deepening my knowledge in **Data Science** 📉 through a Master's program at **Jahangirnagar University** while also working as a **data analyst** at **Monico Technology** 🏢. My post-graduation journey involved valuable experiences in internships and roles at two different companies, shaping my career in **data science** and **AI**. This role as a data analyst at Monico Technology ✏️ has significantly enhanced my expertise in this field. I've successfully 👍 completed various projects, ranging from creating a health survey dashboard ✨ with Python libraries to delving into graph representation learning with SVM, and developing an augmented reality mobile application for image recognition. Proficient in languages like **Python, R, and MongoDB** 🍀, along with skills in front-end development and version control tools, I am currently collaborating with my team on data 📚 **analytics** and **dashboard** 📈 solutions, contributing to our collective goals.
 
