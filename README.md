@@ -9,13 +9,13 @@
 <h1 align="center">
 আসসালামুয়ালাইকুম 🙏🏻 (Assalamuyalaikum) <br>
 <br>	
-I'm Rabbi Amin!
+**I'm Rabbi Amin!**
 <br>	
 <br>
-<!-- 
+
 <img   src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <img src="https://komarev.com/ghpvc/?username=RabbiAmin&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="RabbiAmin" />
--->
+
 
 <hr/>
 <p align="center">
