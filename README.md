@@ -17,8 +17,10 @@ I'm Rabbi Amin!
 <img src="https://komarev.com/ghpvc/?username=RabbiAmin&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="RabbiAmin" />
 <!--  <img src="https://gpvc.arturio.dev/yashitanamdeo" alt="Profile views" align='right'/> <a href="https://github.com/yashitanamdeo/yashitanamdeo/"> </a> update  -->
 
-![:name](https://count.getloli.com/get/@:RabbiAmin)
 
+<p align="center"> 
+![:name](https://count.getloli.com/get/@:RabbiAmin)
+</p>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/RabbiAmin"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Graduate;Data+Analyst;Data+Scientiest;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
