@@ -18,7 +18,7 @@ I'm Rabbi Amin!
   <img alt="name" src="https://count.getloli.com/get/@:RabbiAmin" />
 </p>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg  -->
+
 <p align="center">
   <a href="https://github.com/RabbiAmin"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Graduate;Data+Analyst;Data+Scientiest;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>  
@@ -39,18 +39,6 @@ As a graduate 🎓 of **North South University** 🏫 with a degree in Computer 
 
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## 🛠️ My Favorite Tools
@@ -113,7 +101,7 @@ As a graduate 🎓 of **North South University** 🏫 with a degree in Computer 
 
 ## 📊 Github Stats
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
@@ -124,11 +112,11 @@ As a graduate 🎓 of **North South University** 🏫 with a degree in Computer 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-<!-- 	[![Yashita's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashitanamdeo)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+
    <a href=""><img alt="Amin's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=RabbiAmin&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   <br/>
 
@@ -136,9 +124,6 @@ As a graduate 🎓 of **North South University** 🏫 with a degree in Computer 
 
 
 
-
-
-<!-- https://github.com/sisodiya2421 -->
 
 ## 🙋‍♀️ Let's Connect
 
