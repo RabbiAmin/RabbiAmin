@@ -2,7 +2,6 @@
 	<a href="https://moon-svg.minung.dev"><img src="https://moon-svg.minung.dev/moon.svg?size=70&theme=basic&rotate=128" alt="moon.svg"></a>
 </p>
 
-
 <center>
 	<a href="https://twitter.com/rabbiamin3" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="80px" width="80px" alt="Twitter" align="right"></a>
 	<a href="https://www.linkedin.com/in/RabbiAmin/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="Twitter"></a>
@@ -144,7 +143,7 @@ As a graduate 🎓 of **North South University** 🏫 with a degree in Computer 
 	<a href="https://github.com/RabbiAmin/github-readme-quotes" target="_blank"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Gmail"/></a>
 </p>
 
-
+<!--This portfolio is not good as it is -->
 
 ### <h2 align="center">Support Me💰</h2>
 <p align="center"> 
