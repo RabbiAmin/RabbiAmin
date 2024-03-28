@@ -159,3 +159,11 @@ As a graduate 🎓 of **North South University** 🏫 with a degree in Computer 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=staticman.svg&icon_color=%23E7E7E7&title=Amin&edge_flat=true)](https://hits.seeyoufarm.com)       
 <!-- Md. Rabbi Amin -->
+
+
+01001101
+01010010
+01000001
+01101101
+01101001
+01101110
