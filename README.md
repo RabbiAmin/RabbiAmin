@@ -50,7 +50,7 @@ As a graduate 🎓 of **North South University** 🏫 with a degree in Computer 
 <p>
     <a href="https://github.com/RabbiAmin"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/RabbiAmin"><img alt="R" src="https://img.shields.io/badge/R%20-%2314354C.svg?logo=r&logoColor=white"></a>
-    <a href="https://github.com/RabbiAmin"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDBB%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+    <a href="https://github.com/RabbiAmin"><img alt="MongoD" src="https://img.shields.io/badge/MongoDBB%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
     <a href="https://github.com/RabbiAmin"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
     <a href="https://github.com/RabbiAmin"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
     <a href="https://github.com/RabbiAmin"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
